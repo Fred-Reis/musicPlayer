@@ -5,8 +5,9 @@
 <br/>
 
 <h4 align="center">
-How about taking a look at the others awesome projects at my profile
+How about taking a look at the others awesome projects
   <a href="https://github.com/Fred-Reis/">
+  at my profile
   </a>
   for this application meanwhile 😉
 </h4>
