@@ -1,0 +1,3 @@
+GET https://accounts.spotify.com/api/token
+content-type: application/json;charset=UTF-8
+Authorization: Basic 
